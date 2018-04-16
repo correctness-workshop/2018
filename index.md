@@ -68,7 +68,7 @@ Submitted papers must represent original unpublished research that is not curren
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-Wex epct the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
+We expect the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
 
 ---
 ### <a class="anchor" name="dates"> Tentative Dates </a>
