@@ -1,33 +1,27 @@
 ---
 layout: template1
-title: Correctness 2017
+title: Correctness 2018
 comments: false
 ---
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <!---
-Correctness 2017: First International Workshop on Software Correctness for HPC Applications
+Correctness 2018: Second International Workshop on Software Correctness for HPC Applications
 ------
 
-#### November 12, 2017
-#### Colorado Convention Center, <font color="FF0000">Room 501</font>
-#### Denver, Colorado, USA
-##### Held in conjunction with SC17: [The International Conference for High Performance Computing, Networking, Storage and Analysis](http://sc17.supercomputing.org/)
+#### November 12, 2018
+#### Kay Bailey Hutchison Convention Center, <font color="FF0000">Room 501</font>
+#### Dallas, Texas, USA
+##### Held in conjunction with SC18: [The International Conference for High Performance Computing, Networking, Storage and Analysis](https://sc18.supercomputing.org/)
 ##### In cooperation with [![SIGHPC](/img/SIGhpc_logo_small.png)](http://www.sighpc.org)
 -->
 
-<center><h2>Correctness 2017: First International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 12, 2017 (9am - 12:30pm) </h4></center>
-<center><h4> Colorado Convention Center, <font color="0000FF">Room 501</font> </h4></center>
-<center><h4> Denver, Colorado, USA </h4></center>
-<center><h5> Held in conjunction with SC17: <a href="http://sc17.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
-<center>
-In cooperation with <br />
-<a href="http://www.sighpc.org">
-  <img src="img/SIGhpc_logo_small.png" alt="SIGHPC">
-</a>
-</center>
+<center><h2>Correctness 2018: Second International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November 12, 2018 (full day) </h4></center>
+<center><h4> Kay Bailey Hutchison Convention Center, <font color="0000FF">Room 501</font> </h4></center>
+<center><h4> Dallas, Texas, USA </h4></center>
+<center><h5> Held in conjunction with SC18: <a href="https://sc18.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 
 
 ----
@@ -60,7 +54,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers not exceeding **6 pages** of content. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit. Submissions must use the [ACM format](http://www.acm.org/sigs/publications/proceedings-templates) (please use the sigconf format with default options).
+Authors are invited to submit manuscripts in English structured as technical or experience papers not exceeding **8 pages** of content, includign everything. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
 <!---
 Submissions are expected in the following two categories; all submissions must use the [ACM format](http://www.acm.org/sigs/publications/proceedings-templates).
@@ -69,23 +63,19 @@ Submissions are expected in the following two categories; all submissions must u
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
 -->
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically in EasyChair at: [https://easychair.org/conferences/?conf=correctness2017](https://easychair.org/conferences/?conf=correctness2017).
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [(site coming soon)](https://submissions.supercomputing.org/).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in both the ACM Digital Library and IEEE Xplore through [SIGHPC](http://www.sighpc.org).
+Wex epct the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
 
 ---
-### <a class="anchor" name="dates"> Important Dates </a>
+### <a class="anchor" name="dates"> Tentative Dates </a>
 
-<!---
-* Paper submissions open: June 2, 2017
--->
-* Paper submissions due: ~~August 18, 2017~~ ~~**Extended:** August 25, 2017~~ Last extendend deadline: August 28, 2017, 12pm PST
-* Notification of acceptance: ~~September 15, 2017~~ September 18, 2017
-* Camera-ready papers due (firm): October 6, 2017
-* Workshop: SC 2017, Colorado Convention Center (Room 501), Sun, Nov 12 (at 9am-12:30pm), 2017
+* Paper submissions due: August 10, 2018
+* Notification of acceptance: September 21, 2018
+* Camera-ready papers due (firm): October 12, 2018
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -96,22 +86,7 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-[David Abramson](https://rcc.uq.edu.au/profile/104/david-abramson), The University of Queensland, Australia <br />
-[Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany  <br />
-[Alastair Donaldson](http://www.imperial.ac.uk/people/alastair.donaldson), Imperial College London, UK <br />
-[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
-[Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland), ANL, USA <br />
-[Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/), LBNL, USA <br />
-[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), PNNL, USA <br />
-[David Lecomber](), Allinea/ARM, UK <br />
-[Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin), Reservoir Labs, Yale University, USA <br />
-[Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1), RWTH Aachen University, Germany <br />
-[Feng Qin](http://web.cse.ohio-state.edu/~qin.34/), The Ohio State University, USA <br />
-[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France  <br />
-[Kento Sato](https://people.llnl.gov/sato5), Lawrence Livermore National Laboratory, USA <br />
-[Koushik Sen](https://people.eecs.berkeley.edu/~ksen/), UC Berkeley, USA <br />
-[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA <br />
-[Armando Solar-Lezama](https://people.csail.mit.edu/asolar/), MIT, USA
+TBD
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
