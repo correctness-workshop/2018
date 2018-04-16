@@ -91,62 +91,15 @@ TBD
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-Colorado Convention Center <br />
-700 14th St, Denver, CO 80202 <br />
-<font color="0000FF">Room 501</font>
+Kay Bailey Hutchison Convention Center <br />
+650 S Griffin St, Dallas, TX 75202 <br />
+<font color="0000FF">Room: TBD</font>
 
 ---
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-#### Keynote Address
-
-##### [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html) (University of Delaware)
-
-<table cellspacing="25">
-<tr> <td valign="top"> <img src="img/SiegelJG.png" alt="Stephen-Siegel" style="width:1800px;" /> </td>
-<td width="3%">  </td>
-<td> Stephen Siegel is an Associate Professor in the Department of Computer and Information Sciences and the Department of Mathematical Sciences at the University of Delaware. He received the Ph.D. in mathematics from the University of Chicago in 1993.  As a working mathematician, first at Northwestern University and then at the University of Massachusetts Amherst, he worked in the areas of finite group theory, and the representation theory and cohomology of finite groups.  Much of his work focused on computational issues in those fields.  At UMass, his interests veered towards software engineering, and he worked as a software engineer and then research scientist in the Laboratory for Advanced Software Engineering Research, focusing in particular on formal verification of concurrent systems.  He joined the University of Delaware in 2006 and started the Verified Software Laboratory (VSL), which researches new techniques for verifying and debugging parallel programs, especially programs used for computational science. The VSL has produced the symbolic execution and model checking platform CIVL, among other tools. </td> </tr>
-</table> <br />
-
-<!---
-We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.html), Associate Professor in the Department of Computer and Information Sciences at the University of Delaware, will deliver the keynote address at Correctness 2017!
--->
-
-#### Schedule
-<!---
-<font color="FF0000"> Preliminary only </font>
--->
-
-###### Opening
-<table>
-<tr><td width="15">  </td> <td>09:00 - 09:10:  Opening remarks	</td> </tr>
-<tr><td width="15">  </td> <td>09:10 - 10:00:  Keynote Address: <b>A Verification Language for High Performance Computing</b>, Stephen Siegel </td> </tr>
-</table>
-
-###### Break
-<table>
-<tr><td width="15">  </td> <td>10:00 - 10:30:  Break (coffee provided by SC17) </td> </tr>
-</table>
-
-###### Applications & Algorithms Correctness
-<table>
-<tr><td width="15">  </td> <td>10:30 - 10:47:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh (<a href="papers/altunas.pdf">slides</a>) </td> </tr>
-<tr><td width="15">  </td> <td>10:47 - 11:04:  <b>"Quality Assurance and Error Identification for the Community Earth System Model"</b>, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu (<a href="papers/abaker.pdf">slides</a>) </td> </tr>
-<tr><td width="15">  </td> <td>11:04 - 11:21:  <b>"A Family of Provably Correct Algorithms for Exact Triangle Counting"</b>, Matthew Lee and Tze Meng Low (<a href="papers/low.pdf">slides</a>) </td> </tr>
-</table>
-
-###### Runtime Systems Correctness
-<table>
-<tr><td width="15">  </td> <td>11:21 - 11:38:  <b>"Verifying MPI applications with SimGridMC"</b>, The Anh Pham, Thierry Jéron and Martin Quinson (<a href="papers/quinson.pdf">slides</a>) </td> </tr>
-<tr><td width="15">  </td> <td>11:38 - 11:55:  <b>"Runtime Correctness Checking for Emerging Programming Paradigms"</b>, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku (<a href="papers/protze.pdf">slides</a>) </td> </tr>
-</table>
-
-###### Code Generation & Code Equivalence Correctness
-<table>
-<tr><td width="15">  </td> <td>11:55 - 12:12:  <b>"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"</b>, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan (<a href="papers/schordan.pdf">slides</a>) </td> </tr>
-<tr><td width="15">  </td> <td>12:12 - 12:29:  <b>"Towards Self-Verification in Finite Difference Code Generation"</b>, Jan Hückelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland (<a href="papers/huckelheim.pdf">slides</a>) </td> </tr>
-</table>
+TBD
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
