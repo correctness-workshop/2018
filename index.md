@@ -19,7 +19,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 
 <center><h2>Correctness 2018: Second International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 12, 2018 (full day) </h4></center>
-<center><h4> Kay Bailey Hutchison Convention Center, <font color="0000FF">Room 501</font> </h4></center>
+<center><h4> Kay Bailey Hutchison Convention Center, <font color="0000FF">Room TBD</font> </h4></center>
 <center><h4> Dallas, Texas, USA </h4></center>
 <center><h5> Held in conjunction with SC18: <a href="https://sc18.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 
