@@ -4,7 +4,7 @@ title: Correctness 2018
 comments: false
 ---
 
-<img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
+<img src="img/website-pic.jpg" alt="Drawing" style="width:1200px;" />
 
 <!---
 Correctness 2018: Second International Workshop on Software Correctness for HPC Applications
