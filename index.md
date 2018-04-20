@@ -81,11 +81,12 @@ Submitted papers must represent original unpublished research that is not curren
 We expect the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
 
 ---
-### <a class="anchor" name="dates"> Tentative Dates </a>
+### <a class="anchor" name="dates"> Important Dates </a>
 
 * Paper submissions due: August 10, 2018
 * Notification of acceptance: September 21, 2018
-* Camera-ready papers due (firm): October 12, 2018
+* E-copyright registration completed by authors (firm): October 3, 2018
+* Camera-ready papers due (firm): October 8, 2018
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
