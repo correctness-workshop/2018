@@ -108,9 +108,9 @@ We expect the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc
 [Jackson Mayo]( http://www.sandia.gov/), Sandia National Laboratories, USA <br />
 [John Mellor-Crummey](https://www.cs.rice.edu/~johnmc/), Rice University, USA <br />
 [Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1), RWTH Aachen University, Germany <br />
-[Tristan	 Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc <br />
+[Tristan	 Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
 [Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France <br />
-[Markus Schordan	]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory <br />
+[Markus Schordan	]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
 [Koushik Sen](https://people.eecs.berkeley.edu/~ksen/), UC Berkeley, USA <br />
 [Stephen Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA <br />
 
