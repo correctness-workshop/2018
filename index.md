@@ -53,7 +53,7 @@ Topics of interest include, but are not limited to:
 
 #### Programing Models and Runtime Systems Correctness
 * Correctness in emerging HPC programing models
-* Analysis of error propagation and error handling in HPC runtime systems and libraries
+* Analysis of software error propagation and error handling in HPC runtime systems and libraries
 * Metrics to measure the degree of correctness of HPC software
 * Specifications to check the correctness of runtime systems
 
