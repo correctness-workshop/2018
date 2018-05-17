@@ -24,11 +24,11 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 <center><h5> Held in conjunction with SC18: <a href="https://sc18.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
-<a href="https://tc.computer.org/tchpc/">
-  <img src="img/tchpc_logo_cmyk.png" alt="TCHPC">
-</a>
 <a href="http://www.computer.org">
 <img src="img/IEEE-Computer-Society-Logo.png" alt="IEEE CS">
+</a>
+<a href="https://tc.computer.org/tchpc/">
+  <img src="img/tchpc_logo_cmyk.png" alt="TCHPC">
 </a>
 </center>
 
