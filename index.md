@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to:
 * Approaches for the specification of numerical algorithms with the goal of correctness checking
 * Error identification in the design and implementation of numerical algorithms using finite-precision floating point numbers
 
-#### Tools for Debugging and Testing
+#### Tools for Debugging, Testing, and Correctness Checking
 * Tools to control the effect of non-determinism when debugging and testing HPC software
 * Scalable debugging solutions for large-scale HPC applications
 * Scalable tools for model checking, verification, certification, or symbolic execution
