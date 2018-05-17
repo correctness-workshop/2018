@@ -97,7 +97,22 @@ We expect the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-TBD
+[Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany  <br />
+[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
+[Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland), Argonne National Laboratory, USA <br />
+[Geoff Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
+[Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/), Lawrence Berkeley National Laboratory, USA <br />
+[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), Pacific Northwest National Laboratory, USA <br />
+[Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin), Reservoir Labs, Yale University, USA <br />
+[Francesco Logozzo](https://research.fb.com/people/logozzo-francesco/), Facebook Research, USA <br />
+[Jackson Mayo]( http://www.sandia.gov/), Sandia National Laboratories, USA <br />
+[John Mellor-Crummey](https://www.cs.rice.edu/~johnmc/), Rice University, USA <br />
+[Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1), RWTH Aachen University, Germany <br />
+[Tristan	 Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc <br />
+[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France <br />
+[Markus Schordan	]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory <br />
+[Koushik Sen](https://people.eecs.berkeley.edu/~ksen/), UC Berkeley, USA <br />
+[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA <br />
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
