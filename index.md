@@ -92,6 +92,8 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
 
+Time zone: AOE
+
 * Paper submissions due: August 10, 2018
 * Notification of acceptance: September 21, 2018
 * E-copyright registration completed by authors (firm): October 3, 2018
