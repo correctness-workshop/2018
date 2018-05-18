@@ -82,7 +82,7 @@ Submissions are expected in the following two categories; all submissions must u
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
 -->
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [(site coming soon)](https://submissions.supercomputing.org/).
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/?page=Submit&id=SC18WorkshopCorrectness2018Submission&site=sc18](https://submissions.supercomputing.org/?page=Submit&id=SC18WorkshopCorrectness2018Submission&site=sc18).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
