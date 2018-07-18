@@ -84,7 +84,7 @@ Submissions are expected in the following two categories; all submissions must u
 
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/?page=Submit&id=SC18WorkshopCorrectness2018Submission&site=sc18](https://submissions.supercomputing.org/?page=Submit&id=SC18WorkshopCorrectness2018Submission&site=sc18).
 
-### SC Reproducibility Initiative
+#### SC Reproducibility Initiative
 
 We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/).
 
