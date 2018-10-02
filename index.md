@@ -19,7 +19,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 
 <center><h2>Correctness 2018: Second International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 12, 2018 (full day) </h4></center>
-<center><h4> Kay Bailey Hutchison Convention Center, <font color="0000FF">Room TBD</font> </h4></center>
+<center><h4> Kay Bailey Hutchison Convention Center, <font color="0000FF">Room: D171 (Level 1)</font> </h4></center>
 <center><h4> Dallas, Texas, USA </h4></center>
 <center><h5> Held in conjunction with SC18: <a href="https://sc18.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
@@ -99,8 +99,8 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 
 * Paper submissions due: ~~August 10, 2018~~ ~~**Extended:** August 17, 2018~~ Last extendend deadline: August 20, 2018
 * Notification of acceptance: September 21, 2018
-* E-copyright registration completed by authors (firm): October 3, 2018
-* Camera-ready papers due (firm): October 8, 2018
+* E-copyright registration completed by authors (firm): ~~October 3, 2018~~ October 15, 2018
+* Camera-ready papers due (firm): ~~October 8, 2018~~ October 15, 2018
 
 All time zones are AOE.
 
@@ -135,7 +135,7 @@ All time zones are AOE.
 
 Kay Bailey Hutchison Convention Center <br />
 650 S Griffin St, Dallas, TX 75202 <br />
-<font color="0000FF">Room: TBD</font>
+<font color="0000FF">Room: D171 (Level 1)</font>
 
 ---
 ### <a class="anchor" name="program">Program</a>
