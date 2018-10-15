@@ -99,8 +99,8 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 
 * Paper submissions due: ~~August 10, 2018~~ ~~**Extended:** August 17, 2018~~ Last extendend deadline: August 20, 2018
 * Notification of acceptance: September 21, 2018
-* E-copyright registration completed by authors (firm): ~~October 3, 2018~~ October 15, 2018
-* Camera-ready papers due (firm): ~~October 8, 2018~~ October 15, 2018
+* E-copyright registration completed by authors (firm): ~~October 3, 2018~~ ~~October 15, 2018~~ October 19, 2018
+* Camera-ready papers due (firm): ~~October 8, 2018~~ ~~October 15, 2018~~ October 19, 2018
 
 All time zones are AOE.
 
@@ -141,7 +141,172 @@ Kay Bailey Hutchison Convention Center <br />
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
+**Keynote Speaker 1 (Morning Session)**
+<br />
+
+#### [Ganesh L. Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), Professor, School of Computing, University of Utah
+<img src="img/GaneshPhoto.jpg" alt="Ganesh L. Gopalakrishnan" width="250">
+
+**Bio:**
+Ganesh L. Gopalakrishnan (Senior Member of IEEE and ACM Distinguished
+Scientist) earned his B.Sc.(EE) degree from NIT Calicut in 1978,
+M.Tech (EE) from IIT Kanpur in 1980, and PhD in Computer Science from
+Stony Brook University in 1986, when he joined the University of Utah.
+
+His external engagements include Visiting Assistant Professorship at
+the University of Calgary (1988-89) and sabbatical visits at Stanford
+University (1995-96), Intel (2002-03), and sabbatical projects with
+Microsoft on developing parallel computing curriculum (2009-10). He
+has authored a 2006 Springer book "Computation Engineering: Applied
+Automata Theory and Logic," and is finishing a 2018 textbook using
+Jupyter notebooks in undergraduate Discrete Math and Automata Theory
+classes.
+
+He has published over 180 refereed papers, and has graduated 21 PhD
+students. He is serving as the Director of the Center for Parallel
+Computing at Utah ("CPU").  He was awarded one of the six "Beacons of
+Excellence" Awards for 2012 by the University of Utah for his work on
+mentoring undergraduates.
+
+His currently active projects are: Verification Methods and Tool
+Frameworks for Parallel and Concurrent Systems, Formal Techniques for
+System Resilience, Floating-point Precision Tuning, and Data Race
+Checking for OpenMP and GPUs.  His current research grants and
+contracts are from NSF (CISE) and DOE (in collaboration with LLNL and
+PNNL).
+
+<br />
+#### *Making Formal Methods for HPC Disappear*
+
+**Abstract:** Formal methods include rigorous specification methods that can render
+language standards reliable and unambiguous. They also include
+rigorous testing methods that target well-specified coverage criteria,
+and formal concepts that help guide debugging tool
+implementations. Those who say formal methods don't apply to HPC
+probably misunderstand formal methods to be some esoteric diversion,
+and not as a software productivity booster in the sense we describe.
+
+Undoubtedly, HPC correctness is far too complex: there are the
+accidentally flipping bits, unpredictable floating point rounding,
+threads that incur a data race, and capricious compilers whose
+optimizations change results. All these can severely impact overall
+productivity. Formal approaches are possible for many
+of these pursuits, while for others they may emerge if one persists,
+and if there is a community invested in developing them in the long
+run. A worthwhile direction is to invest in formal methods based
+pedagogy: not only does this help buy us some time to develop useful
+formal methods for HPC, but it also gives some hope to save future
+generations from today's debugging drudgery. Today's parallel
+computing education still only gives lip service to correctness - let
+alone formal.
+
+My talk will try and present examples of all of this. We will present
+examples where formal ideas did transition to production-level data
+race checking tools. I will also present examples where we finished
+production-level tools for floating-point non-reproducibility in the
+field, and hope to backfill the formalism eventually.
+
+Eventually, as Rushby says, Formal Methods must "disappear" - be
+incorporated into standard practice and we don't see them.
+
+<br />
+
+**Keynote Speaker 2 (Afternoon Session)**
+<br />
+
+#### [James Demmel](https://people.eecs.berkeley.edu/~demmel/), Dr. Richard Carl Dehmel Distinguished Professor of Computer Science and Mathematics, University of California at Berkeley
+<img src="img/Demmel_2015.png" alt="James Demmel" width="170">
+
+**Bio:**
+James Demmel is the Dr. Richard Carl Dehmel Distinguished Professor of Computer Science and
+Mathematics at the University of California at Berkeley, and Chair of the EECS Dept. His research is in
+numerical linear algebra, HPC, and communication avoiding algorithms. He is known for his work on the
+LAPACK and ScaLAPACK linear algebra libraries.  He is a member of the NAS, NAE, and American
+Academy of Arts and Sciences; a Fellow of the AAAS, ACM, AMS, IEEE and SIAM; and winner of the
+IPDPS Charles Babbage Award, IEEE Computer Society Sidney Fernbach Award, the ACM Paris
+Kanellakis Award, and numerous best paper prizes.
+
+<br />
+#### *Correctness of Floating Point Programs - Exception Handling and Reproducibility*
+
+**Abstract:** We consider two related aspects of analyzing and guaranteeing correctness
+of floating point programs: exception handling and reproducibility.
+Exception handling refers to reliable and consistent propagation of errors due
+to overflow, invalid operations (like `sqrt(-1)`), convergence failures, etc.
+Reproducibility refers to getting bitwise reproducible results from multiple
+runs of the same program, e.g., despite parallelism causing floating point
+sums to be evaluated in different order with different roundoff errors.
+We describe the efforts of two standards committees, the Basic Linear
+Algebra Subprograms (BLAS) Standard, and the IEEE 754 Floating Point
+Standard, to address these issues, and how these efforts should make it
+easier to accomplish these goals for higher level applications, such as
+linear algebra libraries.
+
+<br />
+
+
+
+
+#### Workshop Schedule
+
+
+###### Keynote 1
+<table>
+<tr><td width="15">  </td> <td>09:00am - 09:05am:  Opening remarks	</td> </tr>
+<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1: <b>"Making Formal Methods for HPC Disappear"</b>, Ganesh L. Gopalakrishnan </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">10:00am - 10:30am:  Break (coffee provided by SC18) </font></td> </tr>
+</table>
+
+###### Applications Correctness
+<table>
+<tr><td width="15">  </td> <td>10:30am - 10:50am:  <b>"Hybrid Theorem Proving as a Lightweight Method for Verifying Numerical Software"</b>, Alper Altuntas, John Baugh </td> </tr>
+<tr><td width="15">  </td> <td>10:50am - 11:10am:  <b>"HPC Software Verification in Action: A Case Study with Tensor Transposition"</b>, Erdal Mutlu, Ajay Panyala, Sriram Krishnamoorthy </td> </tr>
+</table>
+###### Parallel Tasking
+<table>
+<tr><td width="15">  </td> <td>11:10am - 11:30am:  <b>"Correctness of Dynamic Dependence Analysis for Implicitly Parallel Tasking Systems"</b>, Wonchan Lee, George Stelle, Patrick McCormick, Alex Aiken </td> </tr>
+<tr><td width="15">  </td> <td>11:30am - 11:50am:  <b>"Verifying Qthreads: Is Model Checking Viable for User Level Tasking Runtimes?"</b>, Noah Evans </td> </tr>
+</table>
+###### OpenMP Data Race Detection
+<table>
+<tr><td width="15">  </td> <td>11:50am - 12:10pm:  <b>"Incremental Static Race Detection in OpenMP Programs"</b>, Bradley Swain, Jeff Huang </td> </tr>
+<tr><td width="15">  </td> <td>12:10pm - 12:30pm:  <b>"Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free"</b>, Fangke Ye, Markus Schordan, Chunhua Liao, Pei-Hung Lin, Ian Karlin, Vivek Sarkar </td> </tr>
+</table>
+
+###### Lunch Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">12:30pm - 02:00pm:  Lunch (on your own) </font></td> </tr>
+</table>
+
+###### Keynote 2
+<table>
+<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2: <b>"Correctness of Floating Point Programs - Exception Handling and Reproducibility"</b>, James Demmel </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC18) </font></td> </tr>
+</table>
+
+###### Message-Passing Correctness
+<table>
+<tr><td width="15">  </td> <td>03:30pm - 03:50pm:  <b>"Compiler-aided type tracking for correctness checking of MPI applications"</b>, Alexander Hück, Jan-Patrick Lehr </td> </tr>
+<tr><td width="15">  </td> <td>03:50pm - 04:10pm:  <b>"Towards Deductive Verification of Message-Passing Parallel Programs"</b>, Ziqing Luo, Stephen F. Siegel </td> </tr>
+<tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Emmanuelle Saillard, Pierre Huchant, Denis Barthou, Hugo Brunie, Patrick Carribault  </td> </tr>
+</table>
+
+###### Panel
+<table>
+<tr><td width="15">  </td> <td>04:30pm - 05:30pm:  Panel on: <b>Facilitating the Adoption of Correctness Tools in HPC Applications</b></td> </tr>
+<tr><td width="15">  </td> <td>Panelist 1: <a href="https://www.cs.utah.edu/~ganesh/">Ganesh Gopalakrishnan</a>, University of Utah </td> </tr>
+<tr><td width="15">  </td> <td>Panelist 2: <a href="https://people.llnl.gov/schordan1">Markus Schordan</a>, LLNL </td> </tr>
+<tr><td width="15">  </td> <td>Panelist 3: <a href="https://w3.cs.jmu.edu/lam2mo/">Mike Lam</a>, James Madison University </td> </tr>
+</table>
+
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
