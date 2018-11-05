@@ -302,10 +302,10 @@ linear algebra libraries.
 ###### Panel
 <table>
 <tr><td width="15">  </td> <td>04:30pm - 05:30pm:  Panel on: <b>Facilitating the Adoption of Correctness Tools in HPC Applications</b></td> </tr>
-<tr><td width="15">  </td> <td>Panelist 3: <a href="https://staff.ucar.edu/users/altuntas">Alper Altuntas</a>, National Center for Atmospheric Research </td> </tr>
-<tr><td width="15">  </td> <td>Panelist 1: <a href="https://www.cs.utah.edu/~ganesh/">Ganesh Gopalakrishnan</a>, University of Utah </td> </tr>
+<tr><td width="15">  </td> <td>Panelist 1: <a href="https://staff.ucar.edu/users/altuntas">Alper Altuntas</a>, National Center for Atmospheric Research </td> </tr>
+<tr><td width="15">  </td> <td>Panelist 2: <a href="https://www.cs.utah.edu/~ganesh/">Ganesh Gopalakrishnan</a>, University of Utah </td> </tr>
 <tr><td width="15">  </td> <td>Panelist 3: <a href="https://w3.cs.jmu.edu/lam2mo/">Mike Lam</a>, James Madison University </td> </tr>
-<tr><td width="15">  </td> <td>Panelist 2: <a href="https://people.llnl.gov/schordan1">Markus Schordan</a>, LLNL </td> </tr>
+<tr><td width="15">  </td> <td>Panelist 4: <a href="https://people.llnl.gov/schordan1">Markus Schordan</a>, LLNL </td> </tr>
 </table>
 
 
