@@ -296,7 +296,7 @@ linear algebra libraries.
 <table>
 <tr><td width="15">  </td> <td>03:30pm - 03:50pm:  <b>"Compiler-Aided Type Tracking for Correctness Checking of MPI Applications"</b>, Alexander Hück, Jan-Patrick Lehr </td> </tr>
 <tr><td width="15">  </td> <td>03:50pm - 04:10pm:  <b>"Towards Deductive Verification of Message-Passing Parallel Programs"</b>, Ziqing Luo, Stephen F. Siegel </td> </tr>
-<tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Emmanuelle Saillard, Pierre Huchant, Denis Barthou, Hugo Brunie, Patrick Carribault  </td> </tr>
+<tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie, Patrick Carribault  </td> </tr>
 </table>
 
 ###### Panel
