@@ -263,13 +263,13 @@ linear algebra libraries.
 
 ###### Applications Correctness
 <table>
-<tr><td width="15">  </td> <td>10:30am - 10:50am:  <b>"Hybrid Theorem Proving as a Lightweight Method for Verifying Numerical Software"</b>, Alper Altuntas, John Baugh </td> </tr>
-<tr><td width="15">  </td> <td>10:50am - 11:10am:  <b>"HPC Software Verification in Action: A Case Study with Tensor Transposition"</b>, Erdal Mutlu, Ajay Panyala, Sriram Krishnamoorthy </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:50am:  <b>"Hybrid Theorem Proving as a Lightweight Method for Verifying Numerical Software"</b>, Alper Altuntas, John Baugh (<a href="papers/altuntas.pdf">slides</a>) </td> </tr>
+<tr><td width="15">  </td> <td>10:50am - 11:10am:  <b>"HPC Software Verification in Action: A Case Study with Tensor Transposition"</b>, Erdal Mutlu, Ajay Panyala, Sriram Krishnamoorthy (<a href="papers/mutlu.pdf">slides</a>) </td> </tr>
 </table>
 ###### Parallel Tasking
 <table>
-<tr><td width="15">  </td> <td>11:10am - 11:30am:  <b>"Correctness of Dynamic Dependence Analysis for Implicitly Parallel Tasking Systems"</b>, Wonchan Lee, George Stelle, Patrick McCormick, Alex Aiken </td> </tr>
-<tr><td width="15">  </td> <td>11:30am - 11:50am:  <b>"Verifying Qthreads: Is Model Checking Viable for User Level Tasking Runtimes?"</b>, Noah Evans </td> </tr>
+<tr><td width="15">  </td> <td>11:10am - 11:30am:  <b>"Correctness of Dynamic Dependence Analysis for Implicitly Parallel Tasking Systems"</b>, Wonchan Lee, George Stelle, Patrick McCormick, Alex Aiken (<a href="papers/lee.pdf">slides</a>) </td> </tr>
+<tr><td width="15">  </td> <td>11:30am - 11:50am:  <b>"Verifying Qthreads: Is Model Checking Viable for User Level Tasking Runtimes?"</b>, Noah Evans (<a href="papers/evans.pdf">slides</a>) </td> </tr>
 </table>
 ###### OpenMP Data Race Detection
 <table>
@@ -294,9 +294,9 @@ linear algebra libraries.
 
 ###### Message-Passing Correctness
 <table>
-<tr><td width="15">  </td> <td>03:30pm - 03:50pm:  <b>"Compiler-Aided Type Tracking for Correctness Checking of MPI Applications"</b>, Alexander Hück, Jan-Patrick Lehr </td> </tr>
+<tr><td width="15">  </td> <td>03:30pm - 03:50pm:  <b>"Compiler-Aided Type Tracking for Correctness Checking of MPI Applications"</b>, Alexander Hück, Jan-Patrick Lehr, Sebastian Kreutzer, Joachim Protze, Christian Terboven, Christian Bischof, Matthias S. Müller (<a href="papers/lehr.pdf">slides</a>)</td> </tr>
 <tr><td width="15">  </td> <td>03:50pm - 04:10pm:  <b>"Towards Deductive Verification of Message-Passing Parallel Programs"</b>, Ziqing Luo, Stephen F. Siegel </td> </tr>
-<tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie, Patrick Carribault  </td> </tr>
+<tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie, Patrick Carribault  (<a href="papers/sailard.pdf">slides</a>) </td> </tr>
 </table>
 
 ###### Panel
