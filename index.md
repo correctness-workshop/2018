@@ -273,8 +273,8 @@ linear algebra libraries.
 </table>
 ###### OpenMP Data Race Detection
 <table>
-<tr><td width="15">  </td> <td>11:50am - 12:10pm:  <b>"Incremental Static Race Detection in OpenMP Programs"</b>, Bradley Swain, Jeff Huang </td> </tr>
-<tr><td width="15">  </td> <td>12:10pm - 12:30pm:  <b>"Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free"</b>, Fangke Ye, Markus Schordan, Chunhua Liao, Pei-Hung Lin, Ian Karlin, Vivek Sarkar </td> </tr>
+<tr><td width="15">  </td> <td>11:50am - 12:10pm:  <b>"Incremental Static Race Detection in OpenMP Programs"</b>, Bradley Swain, Jeff Huang (<a href="papers/swain.pdf">slides</a>) </td> </tr>
+<tr><td width="15">  </td> <td>12:10pm - 12:30pm:  <b>"Using Polyhedral Analysis to Verify OpenMP Applications are Data Race Free"</b>, Fangke Ye, Markus Schordan, Chunhua Liao, Pei-Hung Lin, Ian Karlin, Vivek Sarkar (<a href="papers/schordan.pdf">slides</a>) </td> </tr>
 </table>
 
 ###### Lunch Break
@@ -295,7 +295,7 @@ linear algebra libraries.
 ###### Message-Passing Correctness
 <table>
 <tr><td width="15">  </td> <td>03:30pm - 03:50pm:  <b>"Compiler-Aided Type Tracking for Correctness Checking of MPI Applications"</b>, Alexander Hück, Jan-Patrick Lehr, Sebastian Kreutzer, Joachim Protze, Christian Terboven, Christian Bischof, Matthias S. Müller (<a href="papers/lehr.pdf">slides</a>)</td> </tr>
-<tr><td width="15">  </td> <td>03:50pm - 04:10pm:  <b>"Towards Deductive Verification of Message-Passing Parallel Programs"</b>, Ziqing Luo, Stephen F. Siegel </td> </tr>
+<tr><td width="15">  </td> <td>03:50pm - 04:10pm:  <b>"Towards Deductive Verification of Message-Passing Parallel Programs"</b>, Ziqing Luo, Stephen F. Siegel (<a href="papers/luo.pdf">slides</a>) </td> </tr>
 <tr><td width="15">  </td> <td>04:10pm - 04:30pm:  <b>"PARCOACH Extension for a Full-Interprocedural Collectives Verification"</b>, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie, Patrick Carribault  (<a href="papers/sailard.pdf">slides</a>) </td> </tr>
 </table>
 
