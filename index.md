@@ -284,7 +284,7 @@ linear algebra libraries.
 
 ###### Keynote 2
 <table>
-<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2: <b>"Correctness of Floating Point Programs - Exception Handling and Reproducibility"</b>, James Demmel </td> </tr>
+<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2: <b>"Correctness of Floating Point Programs - Exception Handling and Reproducibility"</b>, James Demmel (<a href="papers/demmel.pdf">slides</a>) </td> </tr>
 </table>
 
 ###### Break
