@@ -253,7 +253,7 @@ linear algebra libraries.
 ###### Keynote 1
 <table>
 <tr><td width="15">  </td> <td>09:00am - 09:05am:  Opening remarks	</td> </tr>
-<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1: <b>"Making Formal Methods for HPC Disappear"</b>, Ganesh L. Gopalakrishnan </td> </tr>
+<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1: <b>"Making Formal Methods for HPC Disappear"</b>, Ganesh L. Gopalakrishnan (<a href="papers/ganesh.pdf">slides</a>) </td> </tr>
 </table>
 
 ###### Break
